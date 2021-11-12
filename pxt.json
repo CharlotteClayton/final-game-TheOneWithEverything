@@ -1,0 +1,46 @@
+{
+    "name": "Final Game 2.0",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.6.24",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#216c92",
+        "#65d5df",
+        "#41c5dc",
+        "#e2c26f",
+        "#6eb174",
+        "#8d8b8c",
+        "#695d69",
+        "#446f4c",
+        "#f7a337",
+        "#dc3327",
+        "#e37f8d",
+        "#ac87dc",
+        "#f3eece",
+        "#656f6e",
+        "#ffffff",
+        "#000000"
+    ]
+}
